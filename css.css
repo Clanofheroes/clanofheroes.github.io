@@ -73,7 +73,7 @@ header {
 /*resposive*/
 
 @media (max-width:600px) {
-	.wrapper {
+	.homepage {
 		width: 100%;
 	}
 	.logo {
