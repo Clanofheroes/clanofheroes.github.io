@@ -73,17 +73,18 @@ header {
 /*resposive*/
 
 @media (max-width:600px) {
-	.homepage {
+    .homepage {
 		width: 100%;
 	}
 	.logo {
-		float: none;
 		width: 30%;
 		text-align: center;
-		margin: 1,4;
+		padding: 55px 126px;
+		margin: 15px auto;
+		position: absolute;
 	}
-	img {
-		width: ;
+	.logo {
+		padding: 70px 127px;
     }
     .nav-area {
 		float: none;
@@ -103,5 +104,16 @@ header {
 	}
 	.welcome h1 {
 		font-size: 20px;
+	}
+	.welcome a:hover {
+		background: #fff;
+		color: #333;
+		padding: 10px 25px;
+		text-decoration: none;
+		text-transform: none;
+		font-size: 14px;
+		margin-top: 20px;
+		display: inline-block;
+		border: 5px solid #fff;
 	}
 }
