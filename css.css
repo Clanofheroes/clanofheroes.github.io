@@ -79,13 +79,10 @@ header {
 	.logo {
 		width: 30%;
 		text-align: center;
-		padding: 55px 134px;
+		padding: 95px 132px;
 		margin: 15px auto;
 		position: absolute;
 	}
-	.logo {
-		padding: 90px 138px;
-    }
     .nav-area {
 		float: none;
 		margin-top: 0;
