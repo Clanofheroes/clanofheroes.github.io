@@ -38,7 +38,7 @@ header {
 }
 .logo img {
 	width: 80%;
-	padding: 15px 0;
+	padding: 20px 0;
 }
 .welcome {
 	position: absolute;
@@ -77,9 +77,7 @@ header {
 		width: 100%;
 	}
 	.logo {
-		width: 30%;
-		text-align: center;
-		padding: 95px 132px;
+		padding: 143px 143px 131px 139px;
 		margin: 15px auto;
 		position: absolute;
 	}
