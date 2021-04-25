@@ -15,6 +15,9 @@ h1 {
 .container-fluid {
     padding: 3% 15% 7% 15%;
 }
+.join-button {
+    margin: 5% 0 0 0;
+}
 .para1 {
     font-family: 'Cinzel', serif;
     line-height: 2;
