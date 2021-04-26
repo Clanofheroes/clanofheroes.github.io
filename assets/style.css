@@ -1,3 +1,4 @@
+/* *************************Home Section ******************************/
 /* Tags */
 body {
     
@@ -56,11 +57,14 @@ h3 {
     padding: 3%;
 }
 .icon {
-   color: #F8B700;
-   padding: 5%;
+   color: #f08a5d;
+   margin-bottom: 1rem;
 }
 .icon:hover {
-    color:#f9ed69
+    color:#f9ed69;
+}
+.carousel-item {
+    padding: 7% 15%;
 }
 
 
@@ -74,4 +78,15 @@ h3 {
 #About-Us {
     padding: 7% 15%;
 
+}
+#carousel {
+    text-align: center;
+    padding: 6% 15%;
+    background-color: #f08a5d;
+    color: white;
+}
+.h2 {
+    font-size: 3rem;
+    font-weight: bold;
+    line-height: 1.5;
 }
