@@ -3,13 +3,3 @@ f08a5d
 fce38a   ext
 b83b5e
 
-
-
-
-
-
-
-
-<i class="fab fa-twitter"></i> twitter
-<i class="fab fa-instagram"></i> instagram
-<i class="fab fa-facebook"></i> facebook
