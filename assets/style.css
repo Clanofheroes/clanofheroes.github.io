@@ -269,11 +269,7 @@ div .raja2 {
 
 
 #kingofhome{
-    position: absolute;
-    top: 130px;
-    right: 5px;
-    height: 100px;
-    width: 100px;
+    display: none;
 }
 
     
