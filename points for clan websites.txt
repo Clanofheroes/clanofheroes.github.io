@@ -11,4 +11,16 @@ Baseball so real, it's unreal.
 #f9ed69
 f08a5d
 fce38a   ext
-b83b5e
+#b83b5e
+
+
+
+<div class="carousel-item">
+                    <h2>I am "Hemant" Staying in this clan likely from 6 months or above. An active member and
+                        Statergist😂</h2>
+                    <img src="images/hemant.jpg" alt="Loading..."
+                        style="width: 200px; height: 200px; margin: 3% 0; border-radius: 100%;">
+                    <em>Hemant rai,Mumbai </em> <a type="button" id="hemant_ka_button"
+                        class="btn btn-outline-dark btn-sm join-button"
+                        href="https://link.clashofclans.com/de?action=OpenPlayerProfile&tag=98L0Y92RG">Visit Player
+                        Profile</a>
