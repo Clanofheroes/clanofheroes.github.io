@@ -200,9 +200,26 @@ div .raja2 {
     color: white;
 }
 
-.socials_container i:hover {
-    color: lightseagreen;
+#instagram:hover {
+    color:  #DD2A7B;
 }
+
+#facebook:hover {
+    color: #3b5998;
+}
+
+#twitter:hover {
+    color: #1DA1F2;
+}
+
+#gmail:hover {
+    color: #EA4335;
+}
+
+
+/* .socials_container i:hover {
+      color: lightseagreen;
+}*/
 
 
 #footer-text {
