@@ -65,15 +65,17 @@ h3 {
     padding: 3%;
 }
 
-.icon {
-    color: #f08a5d;
-    margin-bottom: 1rem;
+.bomb:hover {
+    color: #fa1e0e;
 }
 
-.icon:hover {
-    color: #f9ed69;
+.donation:hover {
+    color: green;
 }
 
+.power:hover {
+    color: orange;
+}
 .carousel-item {
     padding: 7% 10% 0 10%;
 }
